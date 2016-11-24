@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from pprint import pprint
-from collections import defaultdict
-import sys
 import re
 import json
 
@@ -58,7 +55,14 @@ for i in collection:
     flight = selection1
     des = single_list[2]
     airline = selection
-    status = single_list[7]
+    if "Dep" in single_list[7]:
+        status = single_list[7][0:9]
+    elif "Gate" in single_list[7]:
+        status = single_list[7][0:11]
+    elif "BoardingSoon" in single_list[7]:
+        status = single_list[7][0:12]
+    elif "Final" in single_list[7]:
+        status = single_list[7][0:10]
     if status != '\xa0':
         t["Time"] = time  #
         t["Flight"] = flight  #
@@ -66,4 +70,4 @@ for i in collection:
         t["Airline"] = airline  #
         t["Status"] = status  #
         result.append(t)
-print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
+print(json.dumps({'status': status_code, 'd7ata': result}, sort_keys=False))

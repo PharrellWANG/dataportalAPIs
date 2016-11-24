@@ -56,5 +56,17 @@ for i in collection:
     t["RatioChanged"] = changeratio
     t["Status"] = status
     t["Time"] = time
-    result.append(t)
-print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
+    if status_code == 0:
+        if index == "Nasdaq":
+            result.append(t)
+        elif index == "Hang Seng":
+            result.append(t)
+        elif index == "China A50":
+            result.append(t)
+        elif index == "Nikkei 225":
+            result.append(t)
+        else:
+            pass
+    else:
+        pass
+print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
