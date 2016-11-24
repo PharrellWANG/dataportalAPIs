@@ -22,7 +22,7 @@ for i in collection:
     s = {}
     td_set = i.find_all('td')
     length = len(i.find_all('td'))
-    if length != 6:#tag numbers should be 6
+    if length != 6:  # tag numbers should be 6
         status_code = 1
         s["status"] = status_code
         break
@@ -73,7 +73,7 @@ for i in collection:
     airline = selection
     try:
         status = single_list[5][0:13]
-# changes made in the above line
+    # changes made in the above line
     except IndexError:
         status_code = 8
         s["status"] = status_code
@@ -85,4 +85,8 @@ for i in collection:
         t["Airline"] = airline
         t["Status"] = status
         result.append(t)
-print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
+if status_code == 0:
+    print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
+else:
+    print()
+# print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))

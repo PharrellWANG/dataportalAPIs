@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from pprint import pprint
-from collections import defaultdict
-import sys
 import re
 import json
 
@@ -69,4 +66,7 @@ for i in collection:
             pass
     else:
         pass
-print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
+if status_code == 0:
+    print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
+else:
+    print()

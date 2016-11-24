@@ -4,7 +4,7 @@ import re
 import json
 
 req = Request('http://www.hongkongairport.com/flightinfo/eng/real_depinfo.do',
-          headers={'User-Agent': 'Mozilla/5.0'})
+              headers={'User-Agent': 'Mozilla/5.0'})
 page = urlopen(req).read()
 
 soup = BeautifulSoup(page, 'lxml')
@@ -16,7 +16,7 @@ for y in soup.find_all(mr='true'):
 collection = soup.find_all("tr")
 time_format = re.compile('.{2}:.{2}')
 result = []
-status_code = 0 # only status == 0 is good to go
+status_code = 0  # only status == 0 is good to go
 for i in collection:
     t = {}
     s = {}
@@ -70,4 +70,8 @@ for i in collection:
         t["Airline"] = airline  #
         t["Status"] = status  #
         result.append(t)
-print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
+if status_code == 0:
+    print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
+else:
+    print()
+    # print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
