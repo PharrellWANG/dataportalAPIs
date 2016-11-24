@@ -1,7 +1,9 @@
-from bs4 import BeautifulSoup
+import json
+from datetime import datetime
 from urllib.request import Request, urlopen
 import re
-import json
+from bs4 import BeautifulSoup
+
 
 req = Request('http://www.investing.com/indices/major-indices',
               headers={'User-Agent': 'Mozilla/5.0'})
@@ -45,6 +47,12 @@ for i in collection:
             break
     except IndexError:
         status_code = 6
+    if len(time) == 5:
+        timereformatted = str(datetime.now())[0:8] + time[0:2] + " " + "17:00:00"
+    elif len(time) == 8:
+        timereformatted = str(datetime.now())[0:10] + " " + time
+    else:
+        pass
     status = single_list[7]
     t["Index"] = index
     t["Last"] = last
@@ -52,7 +60,7 @@ for i in collection:
     t["ValueChanged"] = changevalue
     t["RatioChanged"] = changeratio
     t["Status"] = status
-    t["Time"] = time
+    t["Time"] = timereformatted
     if status_code == 0:
         if index == "Nasdaq":
             result.append(t)
