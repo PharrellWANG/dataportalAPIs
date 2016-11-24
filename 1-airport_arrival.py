@@ -73,6 +73,7 @@ for i in collection:
     airline = selection
     try:
         status = single_list[5][0:13]
+# changes made in the above line
     except IndexError:
         status_code = 8
         s["status"] = status_code

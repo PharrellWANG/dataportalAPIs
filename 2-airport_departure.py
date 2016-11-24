@@ -70,4 +70,4 @@ for i in collection:
         t["Airline"] = airline  #
         t["Status"] = status  #
         result.append(t)
-print(json.dumps({'status': status_code, 'd7ata': result}, sort_keys=False))
+print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
