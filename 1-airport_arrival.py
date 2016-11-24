@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from pprint import pprint
-from collections import defaultdict
-import sys
 import re
 import json
 
@@ -19,7 +16,7 @@ for y in soup.find_all(mr='true'):
 collection = soup.find_all("tr")
 time_format = re.compile('.{2}:.{2}')
 result = []
-status_code = 0 # only status == 0 is good to go
+status_code = 0  # only status == 0 is good to go
 for i in collection:
     t = {}
     s = {}
@@ -87,5 +84,4 @@ for i in collection:
         t["Airline"] = airline
         t["Status"] = status
         result.append(t)
-        #
 print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
