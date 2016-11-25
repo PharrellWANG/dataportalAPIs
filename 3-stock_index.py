@@ -22,7 +22,7 @@ for i in collection:
         if single.text != "\xa0":
             single_list.append(single.text)
     length = len(single_list)
-    if length != 7:  # tag numbers should be 7
+    if length != 7:
         status_code = 1
         break
     icon = td_set[8].span
