@@ -63,7 +63,7 @@ for i in collection:
         status = single_list[7][0:12]
     elif "Final" in single_list[7]:
         status = single_list[7][0:10]
-    if status != '\xa0':
+    if (status != '\xa0') and ("Dep" in status):
         t["Time"] = time  #
         t["Flight"] = flight  #
         t["destination"] = des  #

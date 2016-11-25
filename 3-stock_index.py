@@ -54,7 +54,7 @@ for i in collection:
     else:
         pass
     status = single_list[7]
-    t["Index"] = index
+    t["index"] = index
     t["Last"] = last
     t["High"] = high
     t["ValueChanged"] = changevalue
@@ -66,7 +66,7 @@ for i in collection:
             utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
             local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
             local_time = str(local_time)[0:19]
-            print(local_time)
+            # print(local_time)
             t["Time"] = local_time
             result.append(t)
         elif index == "Hang Seng":
@@ -74,20 +74,20 @@ for i in collection:
             local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
             local_time = str(local_time)[0:19]
             t["Time"] = local_time
-            print(local_time)
+            # print(local_time)
             result.append(t)
         elif index == "China A50":
             utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
             local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
             local_time = str(local_time)[0:19]
             t["Time"] = local_time
-            print(local_time)
+            # print(local_time)
             result.append(t)
         elif index == "Nikkei 225":
             utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
             local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
             local_time = str(local_time)[0:19]
-            print(local_time)
+            # print(local_time)
             t["Time"] = local_time
             result.append(t)
         else:

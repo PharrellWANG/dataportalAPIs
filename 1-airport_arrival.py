@@ -77,7 +77,7 @@ for i in collection:
         status_code = 8
         s["status"] = status_code
         break
-    if status != '\xa0':
+    if (status != '\xa0') and ("At gate" in status):
         t["Time"] = time
         t["Flight"] = flight
         t["Origin"] = origin

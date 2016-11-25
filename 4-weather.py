@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import re
 import json
+
 req1 = Request('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=1')
 page1 = urlopen(req1).read()
 req2 = Request('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=2')
@@ -21,14 +22,14 @@ for element1 in letters1:
     temp = (tag.find(class_="temp").get_text())[0:2]
     LastTwoCharInHour = hour[-2:]
     if LastTwoCharInHour == 'AM' or 'M':
-        t["time"] = hour
+        t["Time"] = hour
         status_code = 0
     else:
         status_code = 1
         break
     try:
         temp_val = int(temp)
-        t["temperature"] = temp
+        t["Temperature"] = temp
         status_code = 0
     except ValueError:
         status_code = 2  # temp is not an int number
@@ -43,21 +44,27 @@ for element2 in letters2:
     temp = (tag.find(class_="temp").get_text())[0:2]
     LastTwoCharInHour = hour[-2:]
     if LastTwoCharInHour == 'AM' or 'M':
-        t["time"] = hour
+        t["Time"] = hour
         status_code = 0
     else:
         status_code = 1
         break
     try:
         temp_val = int(temp)
-        t["temperature"] = temp
+        t["Temperature"] = temp
         status_code = 0
     except ValueError:
         status_code = 2  # temp is not an int number
         break
     result.append(t)
-result = result[0:8]
+# print(result[0])
+# print(result[0]['Time'])
+# print(result[0:1])
+# print(result[0:1])
+result[0]['Time'] = 'Now'
+# print(result[0]['Time'])
+X_result = result[0:9]
 if status_code == 0:
-    print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
+    print(json.dumps({"DataList": {'Root': X_result}}, sort_keys=False))
 else:
     print()
