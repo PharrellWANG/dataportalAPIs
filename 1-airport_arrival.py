@@ -73,7 +73,6 @@ for i in collection:
     airline = selection
     try:
         status = single_list[5][0:13]
-    # changes made in the above line
     except IndexError:
         status_code = 8
         s["status"] = status_code
@@ -89,4 +88,3 @@ if status_code == 0:
     print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
 else:
     print()
-# print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))

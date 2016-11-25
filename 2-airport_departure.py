@@ -74,4 +74,3 @@ if status_code == 0:
     print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
 else:
     print()
-    # print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))

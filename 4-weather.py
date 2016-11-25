@@ -2,26 +2,17 @@ from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import re
 import json
-
 req1 = Request('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=1')
 page1 = urlopen(req1).read()
-
 req2 = Request('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=2')
 page2 = urlopen(req2).read()
-
 soup1 = BeautifulSoup(page1, 'lxml')
 soup2 = BeautifulSoup(page2, 'lxml')
-
 letters1 = soup1.find_all("div", class_="wx-cell")
-
 letters2 = soup2.find_all("div", class_="wx-cell")
-
-# ======================================================
 result = []
 status_code = 0  # only status_code = 0 is good to go
-
 hour_format = re.compile('.{2}AM' or '.AM')
-
 for element1 in letters1:
     t = {}
     s = {}
@@ -65,10 +56,8 @@ for element2 in letters2:
         status_code = 2  # temp is not an int number
         break
     result.append(t)
-# print(type(result))
 result = result[0:8]
 if status_code == 0:
     print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
 else:
     print()
-# print(json.dumps({'status': status_code, 'data': result}, sort_keys=False))
