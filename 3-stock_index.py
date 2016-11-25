@@ -4,6 +4,11 @@ from urllib.request import Request, urlopen
 import re
 from bs4 import BeautifulSoup
 
+from datetime import datetime
+import pytz
+import tzlocal
+
+local_timezone = tzlocal.get_localzone()  # get pytz tzinfo
 
 req = Request('http://www.investing.com/indices/major-indices',
               headers={'User-Agent': 'Mozilla/5.0'})
@@ -60,15 +65,43 @@ for i in collection:
     t["ValueChanged"] = changevalue
     t["RatioChanged"] = changeratio
     t["Status"] = status
-    t["Time"] = timereformatted
+    # t["Time"] = timereformatted
     if status_code == 0:
         if index == "Nasdaq":
+            # print('ttttt----->' + timereformatted)
+            utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
+            local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
+            local_time = str(local_time)[0:19]
+            print(local_time)
+            # print(local_timezone)
+            t["Time"] = local_time
             result.append(t)
         elif index == "Hang Seng":
+            # print('ttttt----->' + timereformatted)
+            utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
+            local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
+            local_time = str(local_time)[0:19]
+            t["Time"] = local_time
+            print(local_time)
+            # print(local_timezone)
             result.append(t)
         elif index == "China A50":
+            # print('ttttt----->' + timereformatted)
+            utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
+            local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
+            local_time = str(local_time)[0:19]
+            t["Time"] = local_time
+            print(local_time)
+            # print(local_timezone)
             result.append(t)
         elif index == "Nikkei 225":
+            # print('ttttt----->' + timereformatted)
+            utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
+            local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
+            local_time = str(local_time)[0:19]
+            print(local_time)
+            # print(local_timezone)
+            t["Time"] = local_time
             result.append(t)
         else:
             pass
