@@ -57,7 +57,7 @@ for i in collection:
     t["index"] = index
     t["Last"] = last
     t["High"] = high
-    t["ValueChanged"] = changevalue
+    t["ChangeValue"] = changevalue
     t["RatioChanged"] = changeratio
     t["Status"] = status
     # t["Time"] = timereformatted
