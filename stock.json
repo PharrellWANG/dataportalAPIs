@@ -1,0 +1,42 @@
+{
+  "DataList": {
+    "Root": [
+      {
+        "Status": "redClockIcon",
+        "Time": "2016-12-31 01:00:00",
+        "Last": "5,323.68",
+        "index": "Nasdaq",
+        "High": "5,393.15",
+        "ChangeValue": "-56.24",
+        "RatioChanged": "-1.05%"
+      },
+      {
+        "Status": "redClockIcon",
+        "Time": "2016-12-01 14:00:58",
+        "Last": "18,513.12",
+        "index": "Nikkei 225",
+        "High": "18,746.28",
+        "ChangeValue": "+204.64",
+        "RatioChanged": "+1.12%"
+      },
+      {
+        "Status": "redClockIcon",
+        "Time": "2016-12-01 15:01:00",
+        "Last": "10,581.89",
+        "index": "China A50",
+        "High": "10,651.96",
+        "ChangeValue": "+44.51",
+        "RatioChanged": "+0.42%"
+      },
+      {
+        "Status": "greenClockIcon",
+        "Time": "2016-12-01 15:51:30",
+        "Last": "22,867.00",
+        "index": "Hang Seng",
+        "High": "23,005.00",
+        "ChangeValue": "+77.23",
+        "RatioChanged": "+0.34%"
+      }
+    ]
+  }
+}

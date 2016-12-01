@@ -1,0 +1,42 @@
+{
+  "DataList": {
+    "Root": [
+      {
+        "Time": "Now",
+        "Temperature": "22"
+      },
+      {
+        "Time": "5PM ",
+        "Temperature": "21"
+      },
+      {
+        "Time": "6PM ",
+        "Temperature": "21"
+      },
+      {
+        "Time": "7PM ",
+        "Temperature": "22"
+      },
+      {
+        "Time": "8PM ",
+        "Temperature": "21"
+      },
+      {
+        "Time": "9PM ",
+        "Temperature": "20"
+      },
+      {
+        "Time": "10PM",
+        "Temperature": "20"
+      },
+      {
+        "Time": "11PM",
+        "Temperature": "19"
+      },
+      {
+        "Time": "12AM",
+        "Temperature": "18"
+      }
+    ]
+  }
+}

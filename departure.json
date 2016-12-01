@@ -1,0 +1,1917 @@
+{
+  "DataList": {
+    "Root": [
+      {
+        "Flight": "SA 287",
+        "Airline": "South African Airways",
+        "Status": "Dep 00:13",
+        "Time": "23:50",
+        "destination": "Johannesburg"
+      },
+      {
+        "Flight": "CX 101",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:21",
+        "Time": "23:55",
+        "destination": "Sydney"
+      },
+      {
+        "Flight": "CX 105",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:04",
+        "Time": "00:05",
+        "destination": "Melbourne"
+      },
+      {
+        "Flight": "CX 261",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:53",
+        "Time": "00:05",
+        "destination": "Paris"
+      },
+      {
+        "Flight": "LX 139",
+        "Airline": "SWISS International Air Lines",
+        "Status": "Dep 00:41",
+        "Time": "00:10",
+        "destination": "Zurich"
+      },
+      {
+        "Flight": "CX 880",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:25",
+        "Time": "00:15",
+        "destination": "Los Angeles"
+      },
+      {
+        "Flight": "CX 271",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:07",
+        "Time": "00:25",
+        "destination": "Amsterdam"
+      },
+      {
+        "Flight": "QR 815",
+        "Airline": "QATAR AIRWAYS",
+        "Status": "Dep 00:27",
+        "Time": "00:25",
+        "destination": "Doha"
+      },
+      {
+        "Flight": "OZ 746",
+        "Airline": "Asiana Airlines",
+        "Status": "Dep 00:39",
+        "Time": "00:30",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CX 383",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:04",
+        "Time": "00:30",
+        "destination": "Zurich"
+      },
+      {
+        "Flight": "CX 289",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:56",
+        "Time": "00:35",
+        "destination": "Frankfurt"
+      },
+      {
+        "Flight": "CX 315",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:01",
+        "Time": "00:35",
+        "destination": "Madrid"
+      },
+      {
+        "Flight": "EK 381",
+        "Airline": "Emirates",
+        "Status": "Dep 00:36",
+        "Time": "00:35",
+        "destination": "Dubai"
+      },
+      {
+        "Flight": "CX 233",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:53",
+        "Time": "00:40",
+        "destination": "Milan/MXP"
+      },
+      {
+        "Flight": "HX 773",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 00:55",
+        "Time": "00:40",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "AY 070",
+        "Airline": "FINNAIR",
+        "Status": "Dep 00:44",
+        "Time": "00:45",
+        "destination": "Helsinki"
+      },
+      {
+        "Flight": "CX 412",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:59",
+        "Time": "00:55",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "KE 608",
+        "Airline": "Korean Air",
+        "Status": "Dep 00:51",
+        "Time": "00:55",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CX 255",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:14",
+        "Time": "01:00",
+        "destination": "London/LHR"
+      },
+      {
+        "Flight": "CX 872",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 00:55",
+        "Time": "01:00",
+        "destination": "San Francisco"
+      },
+      {
+        "Flight": "CX 888",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:04",
+        "Time": "01:00",
+        "destination": "Vancouver,New York/JFK"
+      },
+      {
+        "Flight": "CX 379",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:05",
+        "Time": "01:05",
+        "destination": "Dusseldorf"
+      },
+      {
+        "Flight": "CX 524",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:21",
+        "Time": "01:05",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "OZ 750",
+        "Airline": "Asiana Airlines",
+        "Status": "Dep 01:09",
+        "Time": "01:10",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CX 357",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:24",
+        "Time": "01:10",
+        "destination": "Manchester"
+      },
+      {
+        "Flight": "MM 068",
+        "Airline": "Peach Aviation",
+        "Status": "Dep 01:27",
+        "Time": "01:25",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "7C 2108",
+        "Airline": "JEJU AIR",
+        "Status": "Dep 01:34",
+        "Time": "01:25",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CX 745",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:36",
+        "Time": "01:30",
+        "destination": "Dubai,Bahrain"
+      },
+      {
+        "Flight": "ET 673",
+        "Airline": "Ethiopian Airlines",
+        "Status": "Dep 01:42",
+        "Time": "01:30",
+        "destination": "Addis Ababa"
+      },
+      {
+        "Flight": "CX 566",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:50",
+        "Time": "01:50",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "CX 659",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 01:42",
+        "Time": "01:50",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "HX 606",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 01:50",
+        "Time": "01:55",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "HX 767",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 01:54",
+        "Time": "02:00",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "JW 300",
+        "Airline": "Vanilla Air",
+        "Status": "Dep 01:51",
+        "Time": "02:00",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "BX 392",
+        "Airline": "AIR BUSAN",
+        "Status": "Dep 01:47",
+        "Time": "02:05",
+        "destination": "Busan"
+      },
+      {
+        "Flight": "KE 618",
+        "Airline": "Korean Air",
+        "Status": "Dep 02:00",
+        "Time": "02:05",
+        "destination": "Busan"
+      },
+      {
+        "Flight": "UO 676",
+        "Airline": "HK Express",
+        "Status": "Dep 02:31",
+        "Time": "02:30",
+        "destination": "Cheju"
+      },
+      {
+        "Flight": "KA 318",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 02:28",
+        "Time": "02:35",
+        "destination": "Busan"
+      },
+      {
+        "Flight": "HX 682",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 06:56",
+        "Time": "06:55",
+        "destination": "Okinawa"
+      },
+      {
+        "Flight": "UO 1727",
+        "Airline": "HK Express",
+        "Status": "Dep 07:25",
+        "Time": "07:15",
+        "destination": "Yangon"
+      },
+      {
+        "Flight": "MU 726",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 07:21",
+        "Time": "07:25",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "UO 618",
+        "Airline": "HK Express",
+        "Status": "Dep 07:35",
+        "Time": "07:25",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "BR 828",
+        "Airline": "EVA Air",
+        "Status": "Dep 07:31",
+        "Time": "07:30",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "EK 387",
+        "Airline": "Emirates",
+        "Status": "Dep 07:29",
+        "Time": "07:35",
+        "destination": "Dubai"
+      },
+      {
+        "Flight": "HX 336",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 07:42",
+        "Time": "07:40",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "AI 314",
+        "Airline": "Air India",
+        "Status": "Dep 08:01",
+        "Time": "07:45",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "UO 706",
+        "Airline": "HK Express",
+        "Status": "Dep 07:44",
+        "Time": "07:45",
+        "destination": "Siem Reap"
+      },
+      {
+        "Flight": "CX 907",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 07:59",
+        "Time": "07:50",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "HX 690",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 07:55",
+        "Time": "07:50",
+        "destination": "Sapporo"
+      },
+      {
+        "Flight": "PR 313",
+        "Airline": "Philippine Airlines",
+        "Status": "Dep 07:51",
+        "Time": "07:50",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "TG 603",
+        "Airline": "Thai Airways",
+        "Status": "Dep 07:52",
+        "Time": "07:50",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "CI 922",
+        "Airline": "China Airlines",
+        "Status": "Dep 08:00",
+        "Time": "07:55",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CX 594",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:01",
+        "Time": "07:55",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "HX 112",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 07:56",
+        "Time": "07:55",
+        "destination": "Hangzhou"
+      },
+      {
+        "Flight": "KA 626",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:00",
+        "Time": "07:55",
+        "destination": "Hangzhou"
+      },
+      {
+        "Flight": "KA 782",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:01",
+        "Time": "07:55",
+        "destination": "Guangzhou"
+      },
+      {
+        "Flight": "UO 1600",
+        "Airline": "HK Express",
+        "Status": "Dep 07:52",
+        "Time": "07:55",
+        "destination": "Fukuoka"
+      },
+      {
+        "Flight": "CX 562",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 07:52",
+        "Time": "08:00",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "KA 220",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 07:52",
+        "Time": "08:00",
+        "destination": "Da Nang"
+      },
+      {
+        "Flight": "KA 375",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 07:58",
+        "Time": "08:00",
+        "destination": "Clark"
+      },
+      {
+        "Flight": "KA 802",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 07:53",
+        "Time": "08:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "KA 900",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:08",
+        "Time": "08:00",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "SQ 001",
+        "Airline": "Singapore Airlines",
+        "Status": "Dep 08:13",
+        "Time": "08:00",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "KA 061",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:57",
+        "Time": "08:05",
+        "destination": "Kota Kinabalu"
+      },
+      {
+        "Flight": "KA 486",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:04",
+        "Time": "08:05",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CX 691",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:12",
+        "Time": "08:10",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "KA 633",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:14",
+        "Time": "08:15",
+        "destination": "Penang"
+      },
+      {
+        "Flight": "UO 656",
+        "Airline": "HK Express",
+        "Status": "Dep 08:15",
+        "Time": "08:15",
+        "destination": "Nagoya"
+      },
+      {
+        "Flight": "KA 842",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:17",
+        "Time": "08:20",
+        "destination": "Chongqing"
+      },
+      {
+        "Flight": "5J 109R",
+        "Airline": "Cebu Pacific Air",
+        "Status": "Dep 08:30",
+        "Time": "08:25",
+        "destination": "Hong Kong"
+      },
+      {
+        "Flight": "CX 767",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:24",
+        "Time": "08:25",
+        "destination": "Ho Chi Minh"
+      },
+      {
+        "Flight": "CA 118",
+        "Airline": "Air China",
+        "Status": "Dep 08:37",
+        "Time": "08:30",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "CX 723",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:31",
+        "Time": "08:30",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "CX 474",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:05",
+        "Time": "08:35",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CX 921",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:13",
+        "Time": "08:35",
+        "destination": "Cebu"
+      },
+      {
+        "Flight": "CX 139",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:55",
+        "Time": "08:40",
+        "destination": "Sydney"
+      },
+      {
+        "Flight": "CX 548",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:45",
+        "Time": "08:40",
+        "destination": "Tokyo/HND"
+      },
+      {
+        "Flight": "KA 212",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:43",
+        "Time": "08:40",
+        "destination": "Phuket"
+      },
+      {
+        "Flight": "KA 660",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:40",
+        "Time": "08:40",
+        "destination": "Fuzhou"
+      },
+      {
+        "Flight": "KA 852",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:40",
+        "Time": "08:40",
+        "destination": "Wuhan"
+      },
+      {
+        "Flight": "PG 876",
+        "Airline": "Bangkok Airways",
+        "Status": "Dep 08:52",
+        "Time": "08:45",
+        "destination": "Samui,Bangkok"
+      },
+      {
+        "Flight": "CX 368",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:44",
+        "Time": "08:45",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "KA 208",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 08:49",
+        "Time": "08:45",
+        "destination": "Phnom Penh"
+      },
+      {
+        "Flight": "MH 079",
+        "Airline": "Malaysia Airlines",
+        "Status": "Dep 08:47",
+        "Time": "08:45",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "KA 720",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 09:03",
+        "Time": "08:50",
+        "destination": "Changsha"
+      },
+      {
+        "Flight": "KA 432",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 09:01",
+        "Time": "08:55",
+        "destination": "Kaohsiung"
+      },
+      {
+        "Flight": "CX 390",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:56",
+        "Time": "09:00",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "CX 759",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 08:55",
+        "Time": "09:00",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "CX 901",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:12",
+        "Time": "09:00",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "HX 236",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 08:59",
+        "Time": "09:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "GA 873",
+        "Airline": "Garuda Indonesia",
+        "Status": "Dep 09:12",
+        "Time": "09:00",
+        "destination": "Jakarta"
+      },
+      {
+        "Flight": "UO 832",
+        "Airline": "HK Express",
+        "Status": "Dep 09:03",
+        "Time": "09:00",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "CX 504",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:13",
+        "Time": "09:05",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "HX 252",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 09:00",
+        "Time": "09:05",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "UO 1686",
+        "Airline": "HK Express",
+        "Status": "Dep 09:08",
+        "Time": "09:05",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "SQ 857",
+        "Airline": "Singapore Airlines",
+        "Status": "Dep 09:07",
+        "Time": "09:05",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "CX 530",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:00",
+        "Time": "09:10",
+        "destination": "Taipei,Nagoya"
+      },
+      {
+        "Flight": "CX 713",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:02",
+        "Time": "09:10",
+        "destination": "Bangkok,Singapore"
+      },
+      {
+        "Flight": "CX 410",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:14",
+        "Time": "09:15",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CX 580",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:19",
+        "Time": "09:15",
+        "destination": "Sapporo"
+      },
+      {
+        "Flight": "HX 608",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 09:18",
+        "Time": "09:15",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "KA 864",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 09:18",
+        "Time": "09:15",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "CX 777",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:24",
+        "Time": "09:20",
+        "destination": "Jakarta"
+      },
+      {
+        "Flight": "MU 724",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 09:32",
+        "Time": "09:35",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "CX 830",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:50",
+        "Time": "09:35",
+        "destination": "New York/JFK"
+      },
+      {
+        "Flight": "KA 618",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 09:30",
+        "Time": "09:35",
+        "destination": "Xiamen"
+      },
+      {
+        "Flight": "CX 257",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:44",
+        "Time": "09:40",
+        "destination": "London/LHR"
+      },
+      {
+        "Flight": "5J 149",
+        "Airline": "Cebu Pacific Air",
+        "Status": "Dep 09:54",
+        "Time": "09:45",
+        "destination": "Clark"
+      },
+      {
+        "Flight": "5J 241",
+        "Airline": "Cebu Pacific Air",
+        "Status": "Dep 09:43",
+        "Time": "09:45",
+        "destination": "Cebu"
+      },
+      {
+        "Flight": "UO 3012",
+        "Airline": "HK Express",
+        "Status": "Dep 09:48",
+        "Time": "09:45",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "CX 279",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 09:51",
+        "Time": "09:50",
+        "destination": "Paris"
+      },
+      {
+        "Flight": "BR 892",
+        "Airline": "EVA Air",
+        "Status": "Dep 09:57",
+        "Time": "09:50",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "GH 832",
+        "Airline": "S7 Airlines",
+        "Status": "Dep 10:52",
+        "Time": "09:55",
+        "destination": "Novosibirsk"
+      },
+      {
+        "Flight": "UO 3870",
+        "Airline": "HK Express",
+        "Status": "Dep 09:58",
+        "Time": "09:55",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "NH 812",
+        "Airline": "All Nippon Airways",
+        "Status": "Dep 10:06",
+        "Time": "10:00",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "CX 450",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:04",
+        "Time": "10:00",
+        "destination": "Taipei,Tokyo/NRT"
+      },
+      {
+        "Flight": "CX 615",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:00",
+        "Time": "10:00",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "CX 785",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:32",
+        "Time": "10:00",
+        "destination": "Denpasar"
+      },
+      {
+        "Flight": "KA 858",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:07",
+        "Time": "10:00",
+        "destination": "Shanghai/SHA"
+      },
+      {
+        "Flight": "KA 876",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:05",
+        "Time": "10:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "AK 236",
+        "Airline": "AirAsia",
+        "Status": "Dep 10:05",
+        "Time": "10:05",
+        "destination": "Kota Kinabalu"
+      },
+      {
+        "Flight": "AE 1822",
+        "Airline": "Mandarin Airlines",
+        "Status": "Dep 10:09",
+        "Time": "10:10",
+        "destination": "Taichung"
+      },
+      {
+        "Flight": "CX 520",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:12",
+        "Time": "10:15",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "CX 898",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:12",
+        "Time": "10:15",
+        "destination": "Los Angeles"
+      },
+      {
+        "Flight": "KA 950",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:14",
+        "Time": "10:15",
+        "destination": "Qingdao"
+      },
+      {
+        "Flight": "CI 602",
+        "Airline": "China Airlines",
+        "Status": "Dep 10:47",
+        "Time": "10:20",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CI 934",
+        "Airline": "China Airlines",
+        "Status": "Dep 10:37",
+        "Time": "10:20",
+        "destination": "Kaohsiung"
+      },
+      {
+        "Flight": "CX 163",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:30",
+        "Time": "10:20",
+        "destination": "Melbourne"
+      },
+      {
+        "Flight": "CX 494",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:18",
+        "Time": "10:25",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CX 536",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:22",
+        "Time": "10:25",
+        "destination": "Nagoya"
+      },
+      {
+        "Flight": "KA 820",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:23",
+        "Time": "10:25",
+        "destination": "Chengdu"
+      },
+      {
+        "Flight": "TG 609",
+        "Airline": "Thai Airways",
+        "Status": "Dep 10:24",
+        "Time": "10:25",
+        "destination": "Phuket"
+      },
+      {
+        "Flight": "FD 516",
+        "Airline": "Thai AirAsia",
+        "Status": "Dep 10:20",
+        "Time": "10:30",
+        "destination": "Chiang Mai"
+      },
+      {
+        "Flight": "CA 108",
+        "Airline": "Air China",
+        "Status": "Dep 10:16",
+        "Time": "10:30",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "CX 506",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 10:35",
+        "Time": "10:30",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "JL 736",
+        "Airline": "Japan Airlines",
+        "Status": "Dep 10:41",
+        "Time": "10:30",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "HX 422",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 10:27",
+        "Time": "10:35",
+        "destination": "Changchun"
+      },
+      {
+        "Flight": "KA 810",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:57",
+        "Time": "10:35",
+        "destination": "Nanjing"
+      },
+      {
+        "Flight": "5J 111",
+        "Airline": "Cebu Pacific Air",
+        "Status": "Dep 10:54",
+        "Time": "10:40",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "FD 509",
+        "Airline": "Thai AirAsia",
+        "Status": "Dep 11:07",
+        "Time": "10:45",
+        "destination": "Bangkok/DMK"
+      },
+      {
+        "Flight": "AK 139",
+        "Airline": "AirAsia",
+        "Status": "Dep 11:18",
+        "Time": "10:50",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "ZH 9092",
+        "Airline": "Shenzhen Airlines",
+        "Status": "Dep 10:52",
+        "Time": "10:50",
+        "destination": "Jinjiang"
+      },
+      {
+        "Flight": "HX 216",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 10:58",
+        "Time": "10:55",
+        "destination": "Nanjing"
+      },
+      {
+        "Flight": "KA 440",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:50",
+        "Time": "10:55",
+        "destination": "Kaohsiung"
+      },
+      {
+        "Flight": "TR 2063",
+        "Airline": "Tigerair",
+        "Status": "Dep 10:49",
+        "Time": "10:55",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "KA 804",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 11:09",
+        "Time": "11:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "CI 904",
+        "Airline": "China Airlines",
+        "Status": "Dep 11:21",
+        "Time": "11:05",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "KA 380",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 10:57",
+        "Time": "11:05",
+        "destination": "Fukuoka"
+      },
+      {
+        "Flight": "UO 800",
+        "Airline": "HK Express",
+        "Status": "Dep 11:02",
+        "Time": "11:05",
+        "destination": "Hiroshima"
+      },
+      {
+        "Flight": "UA 896",
+        "Airline": "United Airlines",
+        "Status": "Dep 11:08",
+        "Time": "11:10",
+        "destination": "Chicago"
+      },
+      {
+        "Flight": "CA 412",
+        "Airline": "Air China",
+        "Status": "Dep 11:07",
+        "Time": "11:15",
+        "destination": "Chengdu"
+      },
+      {
+        "Flight": "HX 169",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:30",
+        "Time": "11:15",
+        "destination": "Sanya"
+      },
+      {
+        "Flight": "HX 352",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:09",
+        "Time": "11:15",
+        "destination": "Guiyang"
+      },
+      {
+        "Flight": "BR 852",
+        "Airline": "EVA Air",
+        "Status": "Dep 11:09",
+        "Time": "11:15",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "PR 301",
+        "Airline": "Philippine Airlines",
+        "Status": "Dep 11:20",
+        "Time": "11:15",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "UA 180",
+        "Airline": "United Airlines",
+        "Status": "Dep 11:10",
+        "Time": "11:15",
+        "destination": "Newark"
+      },
+      {
+        "Flight": "MU 766",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 11:43",
+        "Time": "11:20",
+        "destination": "Nanjing"
+      },
+      {
+        "Flight": "HX 366",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:16",
+        "Time": "11:20",
+        "destination": "Tianjin"
+      },
+      {
+        "Flight": "HX 658",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:29",
+        "Time": "11:25",
+        "destination": "Okinawa"
+      },
+      {
+        "Flight": "HX 670",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:30",
+        "Time": "11:25",
+        "destination": "Kagoshima"
+      },
+      {
+        "Flight": "CZ 3076",
+        "Airline": "China Southern",
+        "Status": "Dep 11:51",
+        "Time": "11:25",
+        "destination": "Wuhan"
+      },
+      {
+        "Flight": "HX 107",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:37",
+        "Time": "11:30",
+        "destination": "Haikou"
+      },
+      {
+        "Flight": "HX 618",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 11:38",
+        "Time": "11:30",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "KA 640",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 11:34",
+        "Time": "11:30",
+        "destination": "Ningbo"
+      },
+      {
+        "Flight": "CI 7868",
+        "Airline": "China Airlines",
+        "Status": "Dep 11:40",
+        "Time": "11:35",
+        "destination": "Tainan"
+      },
+      {
+        "Flight": "CX 739",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 11:59",
+        "Time": "11:35",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "HO 1306",
+        "Airline": "Juneyao Airlines",
+        "Status": "Dep 11:59",
+        "Time": "11:35",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "MU 2902",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 11:32",
+        "Time": "11:40",
+        "destination": "Wuxi"
+      },
+      {
+        "Flight": "UO 3898",
+        "Airline": "HK Express",
+        "Status": "Dep 13:02",
+        "Time": "11:40",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "CX 806",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 11:51",
+        "Time": "11:50",
+        "destination": "Chicago"
+      },
+      {
+        "Flight": "KA 892",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:02",
+        "Time": "11:50",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "KA 946",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:04",
+        "Time": "11:50",
+        "destination": "Xian"
+      },
+      {
+        "Flight": "SU 213",
+        "Airline": "Aeroflot Russian Airlines",
+        "Status": "Dep 11:52",
+        "Time": "11:55",
+        "destination": "Moscow"
+      },
+      {
+        "Flight": "CI 642",
+        "Airline": "China Airlines",
+        "Status": "Dep 12:14",
+        "Time": "11:55",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "MU 722",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 12:42",
+        "Time": "11:55",
+        "destination": "Shanghai/SHA"
+      },
+      {
+        "Flight": "KA 760",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:10",
+        "Time": "11:55",
+        "destination": "Kunming"
+      },
+      {
+        "Flight": "CX 332",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 11:53",
+        "Time": "12:00",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "CX 406",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 12:03",
+        "Time": "12:00",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CX 653",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 11:59",
+        "Time": "12:00",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "Z2 1265",
+        "Airline": "Philippines AirAsia Inc.",
+        "Status": "Dep 11:54",
+        "Time": "12:00",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "KA 378",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 11:57",
+        "Time": "12:00",
+        "destination": "Okinawa"
+      },
+      {
+        "Flight": "CX 239",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 12:06",
+        "Time": "12:05",
+        "destination": "London/LHR"
+      },
+      {
+        "Flight": "HX 254",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 12:14",
+        "Time": "12:05",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "UO 182",
+        "Airline": "HK Express",
+        "Status": "Dep 12:06",
+        "Time": "12:05",
+        "destination": "Taichung"
+      },
+      {
+        "Flight": "9W 077",
+        "Airline": "Jet Airways",
+        "Status": "Dep 12:03",
+        "Time": "12:05",
+        "destination": "Delhi"
+      },
+      {
+        "Flight": "HX 775",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 12:09",
+        "Time": "12:10",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "KA 620",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:28",
+        "Time": "12:10",
+        "destination": "Hangzhou"
+      },
+      {
+        "Flight": "KA 490",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:10",
+        "Time": "12:15",
+        "destination": "Taichung"
+      },
+      {
+        "Flight": "HX 707",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 12:23",
+        "Time": "12:20",
+        "destination": "Denpasar"
+      },
+      {
+        "Flight": "MF 382",
+        "Airline": "Xiamen Airlines",
+        "Status": "Dep 12:39",
+        "Time": "12:20",
+        "destination": "Xiamen"
+      },
+      {
+        "Flight": "UA 862",
+        "Airline": "United Airlines",
+        "Status": "Dep 12:20",
+        "Time": "12:20",
+        "destination": "San Francisco"
+      },
+      {
+        "Flight": "MM 064",
+        "Airline": "Peach Aviation",
+        "Status": "Dep 12:35",
+        "Time": "12:30",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "CA 102",
+        "Airline": "Air China",
+        "Status": "Dep 12:49",
+        "Time": "12:30",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "MU 502",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 12:59",
+        "Time": "12:30",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "SQ 891",
+        "Airline": "Singapore Airlines",
+        "Status": "Dep 12:30",
+        "Time": "12:30",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "CX 157",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 12:46",
+        "Time": "12:35",
+        "destination": "Brisbane"
+      },
+      {
+        "Flight": "MF 8018",
+        "Airline": "Xiamen Airlines",
+        "Status": "Dep 13:00",
+        "Time": "12:35",
+        "destination": "Jinjiang"
+      },
+      {
+        "Flight": "KA 360",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:48",
+        "Time": "12:35",
+        "destination": "Denpasar"
+      },
+      {
+        "Flight": "KE 604",
+        "Airline": "Korean Air",
+        "Status": "Dep 12:35",
+        "Time": "12:35",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "KA 436",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:34",
+        "Time": "12:40",
+        "destination": "Kaohsiung"
+      },
+      {
+        "Flight": "KA 602",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 13:04",
+        "Time": "12:45",
+        "destination": "Xiamen"
+      },
+      {
+        "Flight": "KA 740",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 12:44",
+        "Time": "12:45",
+        "destination": "Zhengzhou"
+      },
+      {
+        "Flight": "CX 725",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 12:48",
+        "Time": "12:50",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "UO 1646",
+        "Airline": "HK Express",
+        "Status": "Dep 13:04",
+        "Time": "12:50",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "UO 638",
+        "Airline": "HK Express",
+        "Status": "Dep 12:48",
+        "Time": "12:50",
+        "destination": "Fukuoka"
+      },
+      {
+        "Flight": "CA 104",
+        "Airline": "Air China",
+        "Status": "Dep 13:24",
+        "Time": "13:00",
+        "destination": "Tianjin"
+      },
+      {
+        "Flight": "CX 884",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 12:57",
+        "Time": "13:00",
+        "destination": "Los Angeles"
+      },
+      {
+        "Flight": "HX 246",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 13:35",
+        "Time": "13:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "KA 874",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 13:07",
+        "Time": "13:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "TR 2053",
+        "Airline": "Tigerair",
+        "Status": "Dep 13:02",
+        "Time": "13:00",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "CX 564",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 13:05",
+        "Time": "13:05",
+        "destination": "Taipei,Osaka/Kansai"
+      },
+      {
+        "Flight": "CI 680",
+        "Airline": "China Airlines",
+        "Status": "Dep 13:33",
+        "Time": "13:10",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "ZE 932",
+        "Airline": "EASTAR JET",
+        "Status": "Dep 13:07",
+        "Time": "13:10",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "OZ 722",
+        "Airline": "Asiana Airlines",
+        "Status": "Dep 13:14",
+        "Time": "13:15",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "AK 135",
+        "Airline": "AirAsia",
+        "Status": "Dep 13:22",
+        "Time": "13:15",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "MU 5018",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 13:17",
+        "Time": "13:15",
+        "destination": "Shanghai/SHA"
+      },
+      {
+        "Flight": "PR 319",
+        "Airline": "Philippine Airlines",
+        "Status": "Dep 13:13",
+        "Time": "13:20",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "OM 298",
+        "Airline": "MIAT Mongolian Airlines",
+        "Status": "Dep 13:15",
+        "Time": "13:25",
+        "destination": "Ulaan Baatar"
+      },
+      {
+        "Flight": "BL 679",
+        "Airline": "Jetstar Pacific",
+        "Status": "Dep 13:29",
+        "Time": "13:25",
+        "destination": "Hanoi"
+      },
+      {
+        "Flight": "TG 601",
+        "Airline": "Thai Airways",
+        "Status": "Dep 13:41",
+        "Time": "13:25",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "LJ 114",
+        "Airline": "Jin Air",
+        "Status": "Dep 13:41",
+        "Time": "13:30",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "9C 8922",
+        "Airline": "Spring Airlines",
+        "Status": "Dep 13:35",
+        "Time": "13:35",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "BR 868",
+        "Airline": "EVA Air",
+        "Status": "Dep 13:37",
+        "Time": "13:35",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "KL 888",
+        "Airline": "KLM Royal Dutch Airlines",
+        "Status": "Dep 13:30",
+        "Time": "13:35",
+        "destination": "Amsterdam"
+      },
+      {
+        "Flight": "MU 702",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 13:52",
+        "Time": "13:40",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "CX 781",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 13:55",
+        "Time": "13:45",
+        "destination": "Surabaya"
+      },
+      {
+        "Flight": "CZ 309",
+        "Airline": "China Southern",
+        "Status": "Dep 13:44",
+        "Time": "13:45",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "7C 2102",
+        "Airline": "JEJU AIR",
+        "Status": "Dep 13:53",
+        "Time": "13:55",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "GK 022",
+        "Airline": "Jetstar Japan",
+        "Status": "Dep 14:15",
+        "Time": "13:55",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "CI 910",
+        "Airline": "China Airlines",
+        "Status": "Dep 14:40",
+        "Time": "14:00",
+        "destination": "Taipei"
+      },
+      {
+        "Flight": "CX 360",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:11",
+        "Time": "14:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "HX 721",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 14:02",
+        "Time": "14:00",
+        "destination": "Phnom Penh"
+      },
+      {
+        "Flight": "KA 992",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 13:53",
+        "Time": "14:00",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "CX 418",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:03",
+        "Time": "14:05",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CX 420",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:22",
+        "Time": "14:05",
+        "destination": "Taipei,Seoul/ICN"
+      },
+      {
+        "Flight": "CX 870",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:14",
+        "Time": "14:10",
+        "destination": "San Francisco"
+      },
+      {
+        "Flight": "SQ 863",
+        "Airline": "Singapore Airlines",
+        "Status": "Dep 14:09",
+        "Time": "14:10",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "CX 919",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:15",
+        "Time": "14:15",
+        "destination": "Manila"
+      },
+      {
+        "Flight": "KA 694",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 14:14",
+        "Time": "14:15",
+        "destination": "Haikou"
+      },
+      {
+        "Flight": "KA 704",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 14:29",
+        "Time": "14:15",
+        "destination": "Guilin"
+      },
+      {
+        "Flight": "OZ 724",
+        "Airline": "Asiana Airlines",
+        "Status": "Dep 14:46",
+        "Time": "14:20",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "CA 112",
+        "Airline": "Air China",
+        "Status": "Dep 14:16",
+        "Time": "14:20",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "3K 698",
+        "Airline": "Jetstar Asia Airways",
+        "Status": "Dep 14:42",
+        "Time": "14:20",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "NH 860",
+        "Airline": "All Nippon Airways",
+        "Status": "Dep 14:35",
+        "Time": "14:25",
+        "destination": "Tokyo/HND"
+      },
+      {
+        "Flight": "CX 735",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:24",
+        "Time": "14:25",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "CX 751",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 14:26",
+        "Time": "14:25",
+        "destination": "Bangkok"
+      },
+      {
+        "Flight": "HX 238",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 15:22",
+        "Time": "14:25",
+        "destination": "Shanghai/SHA"
+      },
+      {
+        "Flight": "VN 593",
+        "Airline": "Vietnam Airlines",
+        "Status": "Dep 14:32",
+        "Time": "14:30",
+        "destination": "Hanoi"
+      },
+      {
+        "Flight": "NH 876",
+        "Airline": "All Nippon Airways",
+        "Status": "Dep 14:38",
+        "Time": "14:35",
+        "destination": "Nagoya"
+      },
+      {
+        "Flight": "BI 636",
+        "Airline": "Royal Brunei Airlines",
+        "Status": "Dep 14:48",
+        "Time": "14:35",
+        "destination": "B S Begawan"
+      },
+      {
+        "Flight": "MU 224",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 14:36",
+        "Time": "14:45",
+        "destination": "Xian,Xining"
+      },
+      {
+        "Flight": "ET 608",
+        "Airline": "Ethiopian Airlines",
+        "Status": "Dep 14:25",
+        "Time": "14:45",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "HX 312",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 14:53",
+        "Time": "14:50",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "KA 240",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 14:46",
+        "Time": "14:50",
+        "destination": "Siem Reap"
+      },
+      {
+        "Flight": "MH 073",
+        "Airline": "Malaysia Airlines",
+        "Status": "Dep ",
+        "Time": "14:50",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "MU 508",
+        "Airline": "China Eastern Airlines",
+        "Status": "Dep 15:20",
+        "Time": "14:55",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "CX 171",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 15:27",
+        "Time": "14:55",
+        "destination": "Perth"
+      },
+      {
+        "Flight": "UO 1844",
+        "Airline": "HK Express",
+        "Status": "Dep 14:47",
+        "Time": "14:55",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "KA 890",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 14:56",
+        "Time": "15:00",
+        "destination": "Shanghai/PVG"
+      },
+      {
+        "Flight": "KA 902",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 14:56",
+        "Time": "15:00",
+        "destination": "Beijing"
+      },
+      {
+        "Flight": "CX 253",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 15:01",
+        "Time": "15:05",
+        "destination": "London/LHR"
+      },
+      {
+        "Flight": "CX 510",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 15:03",
+        "Time": "15:05",
+        "destination": "Taipei,Fukuoka"
+      },
+      {
+        "Flight": "KA 691",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 15:07",
+        "Time": "15:10",
+        "destination": "Penang"
+      },
+      {
+        "Flight": "OD 606",
+        "Airline": "MALINDO AIR",
+        "Status": "Dep 15:05",
+        "Time": "15:10",
+        "destination": "Kuala Lumpur"
+      },
+      {
+        "Flight": "CX 635",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 15:16",
+        "Time": "15:15",
+        "destination": "Singapore"
+      },
+      {
+        "Flight": "KA 264",
+        "Airline": "Cathay Dragon",
+        "Status": "Dep 15:12",
+        "Time": "15:15",
+        "destination": "Phuket"
+      },
+      {
+        "Flight": "CX 500",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 15:20",
+        "Time": "15:20",
+        "destination": "Tokyo/NRT"
+      },
+      {
+        "Flight": "CX 647",
+        "Airline": "Cathay Pacific",
+        "Status": "Dep 15:31",
+        "Time": "15:20",
+        "destination": "Riyadh"
+      },
+      {
+        "Flight": "HX 021",
+        "Airline": "Hong Kong Airlines",
+        "Status": "Dep 15:19",
+        "Time": "15:20",
+        "destination": "Auckland"
+      },
+      {
+        "Flight": "VN 595",
+        "Airline": "Vietnam Airlines",
+        "Status": "Dep 15:14",
+        "Time": "15:20",
+        "destination": "Ho Chi Minh"
+      },
+      {
+        "Flight": "NH 874",
+        "Airline": "All Nippon Airways",
+        "Status": "Dep 15:31",
+        "Time": "15:25",
+        "destination": "Osaka/Kansai"
+      },
+      {
+        "Flight": "KE 614",
+        "Airline": "Korean Air",
+        "Status": "Dep 15:22",
+        "Time": "15:25",
+        "destination": "Seoul/ICN"
+      },
+      {
+        "Flight": "TG 628",
+        "Airline": "Thai Airways",
+        "Status": "Dep 15:31",
+        "Time": "15:30",
+        "destination": "Seoul/ICN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1658 @@
+{
+  "DataList": {
+    "Root": [
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Sydney",
+        "Flight": "CX 100",
+        "Time": "21:55",
+        "Status": "At gate 00:10"
+      },
+      {
+        "Airline": "Asiana Airlines",
+        "Origin": "Seoul/ICN",
+        "Flight": "OZ 749",
+        "Time": "23:00",
+        "Status": "At gate 00:04"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "MU 725",
+        "Time": "23:35",
+        "Status": "At gate 00:08"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Shanghai/PVG",
+        "Flight": "KA 809",
+        "Time": "23:50",
+        "Status": "At gate 01:14"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Chiang Mai",
+        "Flight": "UO 754",
+        "Time": "23:50",
+        "Status": "At gate 00:46"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Taipei",
+        "Flight": "CI 921",
+        "Time": "00:00",
+        "Status": "At gate 23:55"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Singapore",
+        "Flight": "CX 636",
+        "Time": "00:05",
+        "Status": "At gate 00:22"
+      },
+      {
+        "Airline": "Korean Air",
+        "Origin": "Busan",
+        "Flight": "KE 617",
+        "Time": "00:05",
+        "Status": "At gate 00:17"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Tokyo/NRT",
+        "Flight": "UO 1647",
+        "Time": "00:10",
+        "Status": "At gate 00:07"
+      },
+      {
+        "Airline": "AIR BUSAN",
+        "Origin": "Busan",
+        "Flight": "BX 391",
+        "Time": "00:15",
+        "Status": "At gate 00:15"
+      },
+      {
+        "Airline": "JEJU AIR",
+        "Origin": "Seoul/ICN",
+        "Flight": "7C 2107",
+        "Time": "00:25",
+        "Status": "At gate 00:42"
+      },
+      {
+        "Airline": "Peach Aviation",
+        "Origin": "Osaka/Kansai",
+        "Flight": "MM 067",
+        "Time": "00:40",
+        "Status": "At gate 00:43"
+      },
+      {
+        "Airline": "Ethiopian Airlines",
+        "Origin": "Tokyo/NRT",
+        "Flight": "ET 673",
+        "Time": "00:40",
+        "Status": "At gate 00:26"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Beijing",
+        "Flight": "KA 975",
+        "Time": "00:45",
+        "Status": "At gate 00:45"
+      },
+      {
+        "Airline": "Vanilla Air",
+        "Origin": "Tokyo/NRT",
+        "Flight": "JW 309",
+        "Time": "01:10",
+        "Status": "At gate 01:04"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Seoul/ICN",
+        "Flight": "UO 3627",
+        "Time": "02:15",
+        "Status": "At gate 02:09"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Osaka/Kansai",
+        "Flight": "HX 613",
+        "Time": "02:55",
+        "Status": "At gate 02:45"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Tokyo/HND",
+        "Flight": "UO 623",
+        "Time": "04:10",
+        "Status": "At gate 04:10"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Sydney",
+        "Flight": "CX 138",
+        "Time": "05:00",
+        "Status": "At gate 04:31"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Bahrain,Dubai",
+        "Flight": "CX 746",
+        "Time": "05:00",
+        "Status": "At gate 05:07"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Singapore",
+        "Flight": "CX 714",
+        "Time": "05:05",
+        "Status": "At gate 04:42"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Saipan",
+        "Flight": "HX 077",
+        "Time": "05:15",
+        "Status": "At gate 04:56"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Yangon",
+        "Flight": "KA 251",
+        "Time": "05:25",
+        "Status": "At gate 05:02"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Tokyo/HND",
+        "Flight": "KA 397",
+        "Time": "05:25",
+        "Status": "At gate 05:26"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Kathmandu",
+        "Flight": "KA 103",
+        "Time": "05:30",
+        "Status": "At gate 05:41"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Seoul/ICN",
+        "Flight": "UO 615",
+        "Time": "05:35",
+        "Status": "At gate 05:39"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "New York/JFK",
+        "Flight": "CX 845",
+        "Time": "05:40",
+        "Status": "At gate 05:10"
+      },
+      {
+        "Airline": "Garuda Indonesia",
+        "Origin": "Jakarta",
+        "Flight": "GA 876",
+        "Time": "05:45",
+        "Status": "At gate 06:07"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Jakarta",
+        "Flight": "CX 798",
+        "Time": "05:50",
+        "Status": "At gate 05:28"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Newark",
+        "Flight": "CX 899",
+        "Time": "05:55",
+        "Status": "At gate 05:40"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Dhaka",
+        "Flight": "KA 111",
+        "Time": "05:55",
+        "Status": "At gate 07:15"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Toronto",
+        "Flight": "CX 829",
+        "Time": "06:00",
+        "Status": "At gate 05:30"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "San Francisco",
+        "Flight": "CX 873",
+        "Time": "06:00",
+        "Status": "At gate 07:46"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Los Angeles",
+        "Flight": "CX 883",
+        "Time": "06:00",
+        "Status": "At gate 06:03"
+      },
+      {
+        "Airline": "Emirates",
+        "Origin": "Dubai",
+        "Flight": "EK 386",
+        "Time": "06:00",
+        "Status": "At gate 05:47"
+      },
+      {
+        "Airline": "AIR NEW ZEALAND",
+        "Origin": "Auckland",
+        "Flight": "NZ 087",
+        "Time": "06:05",
+        "Status": "At gate 06:37"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Boston",
+        "Flight": "CX 811",
+        "Time": "06:10",
+        "Status": "At gate 05:46"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Delhi",
+        "Flight": "CX 698",
+        "Time": "06:15",
+        "Status": "At gate 06:07"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Zurich",
+        "Flight": "CX 382",
+        "Time": "06:25",
+        "Status": "At gate 06:01"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Kolkata",
+        "Flight": "KA 169",
+        "Time": "06:25",
+        "Status": "At gate 06:22"
+      },
+      {
+        "Airline": "Air India",
+        "Origin": "Mumbai,Delhi",
+        "Flight": "AI 314",
+        "Time": "06:30",
+        "Status": "At gate 07:02"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Denpasar",
+        "Flight": "HX 708",
+        "Time": "06:30",
+        "Status": "At gate 06:14"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Beijing",
+        "Flight": "KA 997",
+        "Time": "06:30",
+        "Status": "At gate 06:20"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Milan/MXP",
+        "Flight": "CX 234",
+        "Time": "06:40",
+        "Status": "At gate 06:38"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Frankfurt",
+        "Flight": "CX 288",
+        "Time": "06:50",
+        "Status": "At gate 06:32"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Rome",
+        "Flight": "CX 292",
+        "Time": "06:50",
+        "Status": "At gate 06:30"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Paris",
+        "Flight": "CX 260",
+        "Time": "06:55",
+        "Status": "At gate 06:54"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Amsterdam",
+        "Flight": "CX 270",
+        "Time": "06:55",
+        "Status": "At gate 06:47"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Melbourne",
+        "Flight": "CX 178",
+        "Time": "07:00",
+        "Status": "At gate 06:57"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "London/LHR",
+        "Flight": "CX 252",
+        "Time": "07:00",
+        "Status": "At gate 06:58"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Johannesburg",
+        "Flight": "CX 748",
+        "Time": "07:00",
+        "Status": "At gate 07:06"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "New York/JFK,Vancouver",
+        "Flight": "CX 889",
+        "Time": "07:00",
+        "Status": "At gate 06:08"
+      },
+      {
+        "Airline": "Singapore Airlines",
+        "Origin": "San Francisco",
+        "Flight": "SQ 001",
+        "Time": "07:00",
+        "Status": "At gate 07:11"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "London/LGW",
+        "Flight": "CX 344",
+        "Time": "07:05",
+        "Status": "At gate 06:44"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Bangkok",
+        "Flight": "HX 762",
+        "Time": "07:05",
+        "Status": "At gate 06:54"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Manila",
+        "Flight": "CX 904",
+        "Time": "07:10",
+        "Status": "At gate 07:25"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Brisbane",
+        "Flight": "CX 156",
+        "Time": "07:25",
+        "Status": "At gate 07:26"
+      },
+      {
+        "Airline": "Cebu Pacific Air",
+        "Origin": "Manila",
+        "Flight": "5J 108",
+        "Time": "07:40",
+        "Status": "At gate 07:41"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Perth",
+        "Flight": "CX 170",
+        "Time": "07:40",
+        "Status": "At gate 07:35"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Los Angeles",
+        "Flight": "CX 881",
+        "Time": "07:40",
+        "Status": "At gate 07:28"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Taipei",
+        "Flight": "CX 463",
+        "Time": "07:50",
+        "Status": "At gate 07:46"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "San Francisco",
+        "Flight": "CX 893",
+        "Time": "08:05",
+        "Status": "At gate 08:01"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Phuket",
+        "Flight": "UO 764",
+        "Time": "08:05",
+        "Status": "At gate 07:53"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Male",
+        "Flight": "CX 602",
+        "Time": "08:15",
+        "Status": "At gate 08:58"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Bangkok",
+        "Flight": "HX 774",
+        "Time": "08:15",
+        "Status": "At gate 07:18"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Colombo",
+        "Flight": "CX 610",
+        "Time": "08:25",
+        "Status": "At gate 08:39"
+      },
+      {
+        "Airline": "EVA Air",
+        "Origin": "Taipei",
+        "Flight": "BR 891",
+        "Time": "08:50",
+        "Status": "At gate 09:06"
+      },
+      {
+        "Airline": "Cebu Pacific Air",
+        "Origin": "Clark",
+        "Flight": "5J 150",
+        "Time": "08:55",
+        "Status": "At gate 08:47"
+      },
+      {
+        "Airline": "Cebu Pacific Air",
+        "Origin": "Cebu",
+        "Flight": "5J 240",
+        "Time": "08:55",
+        "Status": "At gate 08:53"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Taipei",
+        "Flight": "CX 465",
+        "Time": "08:55",
+        "Status": "At gate 08:50"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Xiamen",
+        "Flight": "KA 617",
+        "Time": "09:00",
+        "Status": "At gate 08:56"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Taipei",
+        "Flight": "CI 601",
+        "Time": "09:05",
+        "Status": "At gate 09:33"
+      },
+      {
+        "Airline": "S7 Airlines",
+        "Origin": "Novosibirsk",
+        "Flight": "GH 831",
+        "Time": "09:05",
+        "Status": "At gate 09:50"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Delhi",
+        "Flight": "CX 694",
+        "Time": "09:10",
+        "Status": "At gate 08:53"
+      },
+      {
+        "Airline": "ETIHAD AIRWAYS",
+        "Origin": "Abu Dhabi",
+        "Flight": "EY 834",
+        "Time": "09:10",
+        "Status": "At gate 09:17"
+      },
+      {
+        "Airline": "Mandarin Airlines",
+        "Origin": "Taichung",
+        "Flight": "AE 1819",
+        "Time": "09:10",
+        "Status": "At gate 09:08"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Kaohsiung",
+        "Flight": "CI 933",
+        "Time": "09:20",
+        "Status": "At gate 09:44"
+      },
+      {
+        "Airline": "Cebu Pacific Air",
+        "Origin": "Manila",
+        "Flight": "5J 110",
+        "Time": "09:20",
+        "Status": "At gate 09:35"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Hyderabad",
+        "Flight": "CX 646",
+        "Time": "09:20",
+        "Status": "At gate 09:14"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Mumbai",
+        "Flight": "CX 660",
+        "Time": "09:25",
+        "Status": "At gate 09:03"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Bangalore",
+        "Flight": "KA 153",
+        "Time": "09:25",
+        "Status": "At gate 09:31"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Kaohsiung",
+        "Flight": "KA 451",
+        "Time": "09:25",
+        "Status": "At gate 09:22"
+      },
+      {
+        "Airline": "Thai AirAsia",
+        "Origin": "Chiang Mai",
+        "Flight": "FD 515",
+        "Time": "09:30",
+        "Status": "At gate 09:25"
+      },
+      {
+        "Airline": "United Airlines",
+        "Origin": "Singapore",
+        "Flight": "UA 896",
+        "Time": "09:30",
+        "Status": "At gate 09:33"
+      },
+      {
+        "Airline": "AirAsia",
+        "Origin": "Kota Kinabalu",
+        "Flight": "AK 237",
+        "Time": "09:35",
+        "Status": "At gate 09:34"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Chennai",
+        "Flight": "CX 632",
+        "Time": "09:35",
+        "Status": "At gate 10:05"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Taichung",
+        "Flight": "KA 495",
+        "Time": "09:40",
+        "Status": "At gate 09:24"
+      },
+      {
+        "Airline": "Jet Airways",
+        "Origin": "Delhi",
+        "Flight": "9W 078",
+        "Time": "09:40",
+        "Status": "At gate 09:20"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Fuzhou",
+        "Flight": "HX 174",
+        "Time": "09:45",
+        "Status": "At gate 09:43"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "HX 231",
+        "Time": "09:45",
+        "Status": "At gate 10:30"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Hanoi",
+        "Flight": "HX 523",
+        "Time": "09:50",
+        "Status": "At gate 10:08"
+      },
+      {
+        "Airline": "Shenzhen Airlines",
+        "Origin": "Jinjiang",
+        "Flight": "ZH 9091",
+        "Time": "09:50",
+        "Status": "At gate 10:02"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Taipei",
+        "Flight": "CI 903",
+        "Time": "09:55",
+        "Status": "At gate 10:16"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Taipei",
+        "Flight": "HX 285",
+        "Time": "09:55",
+        "Status": "At gate 09:48"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Chengdu",
+        "Flight": "HX 453",
+        "Time": "09:55",
+        "Status": "At gate 09:58"
+      },
+      {
+        "Airline": "Jet Airways",
+        "Origin": "Mumbai",
+        "Flight": "9W 076",
+        "Time": "09:55",
+        "Status": "At gate 09:54"
+      },
+      {
+        "Airline": "EVA Air",
+        "Origin": "Taipei",
+        "Flight": "BR 851",
+        "Time": "10:05",
+        "Status": "At gate 09:56"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Shanghai/PVG",
+        "Flight": "KA 857",
+        "Time": "10:05",
+        "Status": "At gate 10:15"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Cheju",
+        "Flight": "UO 677",
+        "Time": "10:05",
+        "Status": "At gate 09:48"
+      },
+      {
+        "Airline": "Tigerair",
+        "Origin": "Singapore",
+        "Flight": "TR 2062",
+        "Time": "10:05",
+        "Status": "At gate 09:55"
+      },
+      {
+        "Airline": "Aeroflot Russian Airlines",
+        "Origin": "Moscow",
+        "Flight": "SU 212",
+        "Time": "10:10",
+        "Status": "At gate 10:27"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Bangkok",
+        "Flight": "CX 616",
+        "Time": "10:10",
+        "Status": "At gate 10:20"
+      },
+      {
+        "Airline": "Thai AirAsia",
+        "Origin": "Bangkok/DMK",
+        "Flight": "FD 508",
+        "Time": "10:15",
+        "Status": "At gate 10:22"
+      },
+      {
+        "Airline": "AirAsia",
+        "Origin": "Kuala Lumpur",
+        "Flight": "AK 138",
+        "Time": "10:15",
+        "Status": "At gate 10:36"
+      },
+      {
+        "Airline": "Air China",
+        "Origin": "Chengdu",
+        "Flight": "CA 411",
+        "Time": "10:15",
+        "Status": "At gate 10:15"
+      },
+      {
+        "Airline": "Philippine Airlines",
+        "Origin": "Manila",
+        "Flight": "PR 300",
+        "Time": "10:15",
+        "Status": "At gate 09:54"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Nanjing",
+        "Flight": "MU 765",
+        "Time": "10:20",
+        "Status": "At gate 10:19"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Chongqing",
+        "Flight": "HX 497",
+        "Time": "10:20",
+        "Status": "At gate 10:33"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Taipei",
+        "Flight": "CX 407",
+        "Time": "10:25",
+        "Status": "At gate 10:10"
+      },
+      {
+        "Airline": "China Southern",
+        "Origin": "Wuhan",
+        "Flight": "CZ 3075",
+        "Time": "10:25",
+        "Status": "At gate 11:03"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Hangzhou",
+        "Flight": "KA 623",
+        "Time": "10:30",
+        "Status": "At gate 10:25"
+      },
+      {
+        "Airline": "Mandarin Airlines",
+        "Origin": "Kaohsiung",
+        "Flight": "AE 981",
+        "Time": "10:35",
+        "Status": "At gate 10:50"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Wuxi",
+        "Flight": "MU 2901",
+        "Time": "10:40",
+        "Status": "At gate 10:34"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Hangzhou",
+        "Flight": "HX 129",
+        "Time": "10:40",
+        "Status": "At gate 10:31"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Singapore",
+        "Flight": "CX 650",
+        "Time": "10:45",
+        "Status": "At gate 11:04"
+      },
+      {
+        "Airline": "Philippines AirAsia Inc.",
+        "Origin": "Manila",
+        "Flight": "Z2 1264",
+        "Time": "10:45",
+        "Status": "At gate 10:01"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Busan",
+        "Flight": "KA 319",
+        "Time": "10:45",
+        "Status": "At gate 10:39"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Ningbo",
+        "Flight": "KA 643",
+        "Time": "10:45",
+        "Status": "At gate 10:50"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Shanghai/SHA",
+        "Flight": "MU 721",
+        "Time": "10:50",
+        "Status": "At gate 11:37"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Nanjing",
+        "Flight": "HX 221",
+        "Time": "10:50",
+        "Status": "At gate 10:55"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Tianjin",
+        "Flight": "HX 363",
+        "Time": "10:50",
+        "Status": "At gate 10:27"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Taipei",
+        "Flight": "CI 641",
+        "Time": "10:55",
+        "Status": "At gate 11:15"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Manila",
+        "Flight": "CX 912",
+        "Time": "10:55",
+        "Status": "At gate 10:48"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Beijing",
+        "Flight": "HX 305",
+        "Time": "10:55",
+        "Status": "At gate 10:14"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Guangzhou",
+        "Flight": "KA 783",
+        "Time": "11:00",
+        "Status": "At gate 11:07"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Chengdu",
+        "Flight": "KA 825",
+        "Time": "11:00",
+        "Status": "At gate 10:57"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Nanjing",
+        "Flight": "KA 863",
+        "Time": "11:00",
+        "Status": "At gate 11:05"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Tokyo/HND",
+        "Flight": "UO 625",
+        "Time": "11:00",
+        "Status": "At gate 10:42"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Taipei",
+        "Flight": "CX 403",
+        "Time": "11:10",
+        "Status": "At gate 11:00"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Dubai",
+        "Flight": "CX 738",
+        "Time": "11:10",
+        "Status": "At gate 11:10"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Shanghai/PVG",
+        "Flight": "KA 871",
+        "Time": "11:10",
+        "Status": "At gate 11:24"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Beijing",
+        "Flight": "KA 937",
+        "Time": "11:10",
+        "Status": "At gate 11:01"
+      },
+      {
+        "Airline": "Xiamen Airlines",
+        "Origin": "Xiamen",
+        "Flight": "MF 381",
+        "Time": "11:20",
+        "Status": "At gate 11:40"
+      },
+      {
+        "Airline": "Korean Air",
+        "Origin": "Seoul/ICN",
+        "Flight": "KE 603",
+        "Time": "11:20",
+        "Status": "At gate 11:31"
+      },
+      {
+        "Airline": "Singapore Airlines",
+        "Origin": "Singapore",
+        "Flight": "SQ 890",
+        "Time": "11:20",
+        "Status": "At gate 11:30"
+      },
+      {
+        "Airline": "Air China",
+        "Origin": "Beijing",
+        "Flight": "CA 101",
+        "Time": "11:25",
+        "Status": "At gate 11:44"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Ningbo",
+        "Flight": "UO 1227",
+        "Time": "11:25",
+        "Status": "At gate 11:16"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "MU 501",
+        "Time": "11:30",
+        "Status": "At gate 11:46"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Shanghai/PVG",
+        "Flight": "KA 831",
+        "Time": "11:30",
+        "Status": "At gate 11:58"
+      },
+      {
+        "Airline": "Xiamen Airlines",
+        "Origin": "Jinjiang",
+        "Flight": "MF 8017",
+        "Time": "11:35",
+        "Status": "At gate 11:50"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Penang",
+        "Flight": "KA 692",
+        "Time": "11:40",
+        "Status": "At gate 11:27"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Beijing",
+        "Flight": "KA 905",
+        "Time": "11:40",
+        "Status": "At gate 11:56"
+      },
+      {
+        "Airline": "Peach Aviation",
+        "Origin": "Osaka/Kansai",
+        "Flight": "MM 063",
+        "Time": "11:45",
+        "Status": "At gate 11:47"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Seoul/ICN",
+        "Flight": "CX 415",
+        "Time": "11:45",
+        "Status": "At gate 13:06"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "HX 235",
+        "Time": "11:45",
+        "Status": "At gate 12:22"
+      },
+      {
+        "Airline": "Thai Airways",
+        "Origin": "Bangkok",
+        "Flight": "TG 600",
+        "Time": "11:45",
+        "Status": "At gate 12:38"
+      },
+      {
+        "Airline": "Asiana Airlines",
+        "Origin": "Seoul/ICN",
+        "Flight": "OZ 721",
+        "Time": "11:50",
+        "Status": "At gate 12:04"
+      },
+      {
+        "Airline": "KLM Royal Dutch Airlines",
+        "Origin": "Amsterdam",
+        "Flight": "KL 887",
+        "Time": "11:50",
+        "Status": "At gate 11:23"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Singapore",
+        "Flight": "CX 710",
+        "Time": "11:55",
+        "Status": "At gate 11:58"
+      },
+      {
+        "Airline": "Air China",
+        "Origin": "Tianjin",
+        "Flight": "CA 103",
+        "Time": "12:00",
+        "Status": "At gate 12:26"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Taipei",
+        "Flight": "CX 469",
+        "Time": "12:05",
+        "Status": "At gate 12:02"
+      },
+      {
+        "Airline": "EVA Air",
+        "Origin": "Taipei",
+        "Flight": "BR 867",
+        "Time": "12:05",
+        "Status": "At gate 12:42"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Jakarta",
+        "Flight": "CI 680",
+        "Time": "12:10",
+        "Status": "At gate 12:31"
+      },
+      {
+        "Airline": "EASTAR JET",
+        "Origin": "Seoul/ICN",
+        "Flight": "ZE 931",
+        "Time": "12:10",
+        "Status": "At gate 11:54"
+      },
+      {
+        "Airline": "Tigerair",
+        "Origin": "Singapore",
+        "Flight": "TR 2052",
+        "Time": "12:10",
+        "Status": "At gate 12:13"
+      },
+      {
+        "Airline": "Jin Air",
+        "Origin": "Seoul/ICN",
+        "Flight": "LJ 113",
+        "Time": "12:20",
+        "Status": "At gate 12:28"
+      },
+      {
+        "Airline": "Philippine Airlines",
+        "Origin": "Manila",
+        "Flight": "PR 318",
+        "Time": "12:20",
+        "Status": "At gate 11:37"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Shanghai/SHA",
+        "Flight": "MU 5017",
+        "Time": "12:25",
+        "Status": "At gate 12:24"
+      },
+      {
+        "Airline": "MIAT Mongolian Airlines",
+        "Origin": "Ulaan Baatar",
+        "Flight": "OM 297",
+        "Time": "12:25",
+        "Status": "At gate 12:04"
+      },
+      {
+        "Airline": "Jetstar Pacific",
+        "Origin": "Hanoi",
+        "Flight": "BL 678",
+        "Time": "12:25",
+        "Status": "At gate 12:28"
+      },
+      {
+        "Airline": "Singapore Airlines",
+        "Origin": "Singapore",
+        "Flight": "SQ 860",
+        "Time": "12:25",
+        "Status": "At gate 12:23"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Shanghai/PVG",
+        "Flight": "CX 365",
+        "Time": "12:30",
+        "Status": "At gate 13:06"
+      },
+      {
+        "Airline": "Malaysia Airlines",
+        "Origin": "Kuala Lumpur",
+        "Flight": "MH 072",
+        "Time": "12:30",
+        "Status": "At gate 12:51"
+      },
+      {
+        "Airline": "Spring Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "9C 8921",
+        "Time": "12:35",
+        "Status": "At gate 12:36"
+      },
+      {
+        "Airline": "AirAsia",
+        "Origin": "Kuala Lumpur",
+        "Flight": "AK 134",
+        "Time": "12:40",
+        "Status": "At gate 12:41"
+      },
+      {
+        "Airline": "China Airlines",
+        "Origin": "Taipei",
+        "Flight": "CI 909",
+        "Time": "12:40",
+        "Status": "At gate 13:26"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "MU 701",
+        "Time": "12:40",
+        "Status": "At gate 12:49"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Bangkok",
+        "Flight": "HX 768",
+        "Time": "12:40",
+        "Status": "At gate 12:50"
+      },
+      {
+        "Airline": "China Southern",
+        "Origin": "Beijing",
+        "Flight": "CZ 310",
+        "Time": "12:40",
+        "Status": "At gate 12:38"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Da Nang",
+        "Flight": "KA 227",
+        "Time": "12:40",
+        "Status": "At gate 12:32"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Taipei",
+        "Flight": "KA 487",
+        "Time": "12:45",
+        "Status": "At gate 12:44"
+      },
+      {
+        "Airline": "Asiana Airlines",
+        "Origin": "Seoul/ICN",
+        "Flight": "OZ 723",
+        "Time": "12:50",
+        "Status": "At gate 13:46"
+      },
+      {
+        "Airline": "All Nippon Airways",
+        "Origin": "Tokyo/HND",
+        "Flight": "NH 859",
+        "Time": "12:55",
+        "Status": "At gate 13:04"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "London/LHR",
+        "Flight": "CX 238",
+        "Time": "12:55",
+        "Status": "At gate 12:57"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Osaka/Kansai",
+        "Flight": "CX 567",
+        "Time": "12:55",
+        "Status": "At gate 13:09"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Kuala Lumpur",
+        "Flight": "CX 720",
+        "Time": "12:55",
+        "Status": "At gate 12:59"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Clark",
+        "Flight": "KA 376",
+        "Time": "12:55",
+        "Status": "At gate 12:42"
+      },
+      {
+        "Airline": "JEJU AIR",
+        "Origin": "Seoul/ICN",
+        "Flight": "7C 2101",
+        "Time": "12:55",
+        "Status": "At gate 13:01"
+      },
+      {
+        "Airline": "Jetstar Japan",
+        "Origin": "Tokyo/NRT",
+        "Flight": "GK 021",
+        "Time": "12:55",
+        "Status": "At gate 13:22"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Tokyo/NRT",
+        "Flight": "HX 607",
+        "Time": "13:00",
+        "Status": "At gate 12:52"
+      },
+      {
+        "Airline": "Air China",
+        "Origin": "Beijing",
+        "Flight": "CA 111",
+        "Time": "13:05",
+        "Status": "At gate 13:14"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Fuzhou",
+        "Flight": "KA 661",
+        "Time": "13:05",
+        "Status": "At gate 12:59"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Changsha",
+        "Flight": "KA 721",
+        "Time": "13:05",
+        "Status": "At gate 13:34"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Seoul/ICN",
+        "Flight": "CX 417",
+        "Time": "13:15",
+        "Status": "At gate 13:17"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Taipei",
+        "Flight": "CX 475",
+        "Time": "13:25",
+        "Status": "At gate 13:42"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Osaka/Kansai",
+        "Flight": "CX 503",
+        "Time": "13:25",
+        "Status": "At gate 13:31"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Tokyo/NRT",
+        "Flight": "CX 509",
+        "Time": "13:25",
+        "Status": "At gate 13:48"
+      },
+      {
+        "Airline": "All Nippon Airways",
+        "Origin": "Nagoya",
+        "Flight": "NH 875",
+        "Time": "13:30",
+        "Status": "At gate 13:43"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Manila",
+        "Flight": "CX 906",
+        "Time": "13:30",
+        "Status": "At gate 13:10"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Tokyo/NRT",
+        "Flight": "HX 611",
+        "Time": "13:30",
+        "Status": "At gate 14:30"
+      },
+      {
+        "Airline": "Vietnam Airlines",
+        "Origin": "Hanoi",
+        "Flight": "VN 592",
+        "Time": "13:30",
+        "Status": "At gate 13:23"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Hangzhou",
+        "Flight": "KA 627",
+        "Time": "13:35",
+        "Status": "At gate 13:59"
+      },
+      {
+        "Airline": "Royal Brunei Airlines",
+        "Origin": "B S Begawan",
+        "Flight": "BI 635",
+        "Time": "13:35",
+        "Status": "At gate 13:32"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Xining,Xian",
+        "Flight": "MU 223",
+        "Time": "13:40",
+        "Status": "At gate 13:12"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Wuhan",
+        "Flight": "KA 853",
+        "Time": "13:40",
+        "Status": "At gate 13:48"
+      },
+      {
+        "Airline": "Jetstar Asia Airways",
+        "Origin": "Singapore",
+        "Flight": "3K 697",
+        "Time": "13:40",
+        "Status": "At gate 14:02"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Taipei",
+        "Flight": "HX 253",
+        "Time": "13:45",
+        "Status": "At gate 13:56"
+      },
+      {
+        "Airline": "Ethiopian Airlines",
+        "Origin": "Addis Ababa",
+        "Flight": "ET 608",
+        "Time": "13:45",
+        "Status": "At gate 13:25"
+      },
+      {
+        "Airline": "HK Express",
+        "Origin": "Siem Reap",
+        "Flight": "UO 707",
+        "Time": "13:45",
+        "Status": "At gate 13:39"
+      },
+      {
+        "Airline": "All Nippon Airways",
+        "Origin": "Osaka/Kansai",
+        "Flight": "NH 873",
+        "Time": "13:50",
+        "Status": "At gate 14:20"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "London/LHR",
+        "Flight": "CX 250",
+        "Time": "13:50",
+        "Status": "At gate 13:14"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Beijing",
+        "Flight": "CX 347",
+        "Time": "13:50",
+        "Status": "At gate 14:08"
+      },
+      {
+        "Airline": "Thai Airways",
+        "Origin": "Seoul/ICN",
+        "Flight": "TG 629",
+        "Time": "13:50",
+        "Status": "At gate 13:56"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Okinawa",
+        "Flight": "HX 681",
+        "Time": "13:55",
+        "Status": "At gate 13:30"
+      },
+      {
+        "Airline": "EL AL Israel Airlines",
+        "Origin": "Tel Aviv",
+        "Flight": "LY 075",
+        "Time": "13:55",
+        "Status": "At gate 13:45"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Xiamen",
+        "Flight": "KA 619",
+        "Time": "13:55",
+        "Status": "At gate 13:32"
+      },
+      {
+        "Airline": "Singapore Airlines",
+        "Origin": "Singapore",
+        "Flight": "SQ 856",
+        "Time": "13:55",
+        "Status": "At gate 14:30"
+      },
+      {
+        "Airline": "China Eastern Airlines",
+        "Origin": "Shanghai/PVG",
+        "Flight": "MU 507",
+        "Time": "14:00",
+        "Status": "At gate 14:28"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Chongqing",
+        "Flight": "KA 847",
+        "Time": "14:00",
+        "Status": "At gate 14:08"
+      },
+      {
+        "Airline": "All Nippon Airways",
+        "Origin": "Tokyo/NRT",
+        "Flight": "NH 809",
+        "Time": "14:05",
+        "Status": "At gate 14:47"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Singapore",
+        "Flight": "CX 736",
+        "Time": "14:05",
+        "Status": "At gate 14:39"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "New York/JFK",
+        "Flight": "CX 841",
+        "Time": "14:05",
+        "Status": "At gate 13:57"
+      },
+      {
+        "Airline": "Korean Air",
+        "Origin": "Seoul/ICN",
+        "Flight": "KE 613",
+        "Time": "14:05",
+        "Status": "At gate 14:17"
+      },
+      {
+        "Airline": "MALINDO AIR",
+        "Origin": "Kuala Lumpur",
+        "Flight": "OD 605",
+        "Time": "14:10",
+        "Status": "At gate 14:12"
+      },
+      {
+        "Airline": "Vietnam Airlines",
+        "Origin": "Ho Chi Minh",
+        "Flight": "VN 594",
+        "Time": "14:15",
+        "Status": "At gate 14:23"
+      },
+      {
+        "Airline": "Japan Airlines",
+        "Origin": "Tokyo/HND",
+        "Flight": "JL 029",
+        "Time": "14:15",
+        "Status": "At gate 14:46"
+      },
+      {
+        "Airline": "British Airways",
+        "Origin": "London/LHR",
+        "Flight": "BA 031",
+        "Time": "14:20",
+        "Status": "At gate 14:26"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Seoul/ICN,Taipei",
+        "Flight": "CX 421",
+        "Time": "14:20",
+        "Status": "At gate 14:22"
+      },
+      {
+        "Airline": "Thai Airways",
+        "Origin": "Bangkok",
+        "Flight": "TG 628",
+        "Time": "14:20",
+        "Status": "At gate 14:34"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Surabaya",
+        "Flight": "CX 780",
+        "Time": "14:25",
+        "Status": "At gate 14:05"
+      },
+      {
+        "Airline": "EVA Air",
+        "Origin": "Taipei",
+        "Flight": "BR 869",
+        "Time": "14:30",
+        "Status": "At gate 14:41"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Shanghai/PVG",
+        "Flight": "KA 803",
+        "Time": "14:30",
+        "Status": "At gate 14:08"
+      },
+      {
+        "Airline": "Emirates",
+        "Origin": "Dubai",
+        "Flight": "EK 382",
+        "Time": "14:30",
+        "Status": "At gate 14:21"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Kuala Lumpur",
+        "Flight": "CX 790",
+        "Time": "14:40",
+        "Status": "At gate 14:30"
+      },
+      {
+        "Airline": "Mandarin Airlines",
+        "Origin": "Taichung",
+        "Flight": "AE 1817",
+        "Time": "14:40",
+        "Status": "At gate 14:56"
+      },
+      {
+        "Airline": "Air Canada",
+        "Origin": "Toronto",
+        "Flight": "AC 015",
+        "Time": "14:45",
+        "Status": "At gate 14:35"
+      },
+      {
+        "Airline": "Garuda Indonesia",
+        "Origin": "Denpasar",
+        "Flight": "GA 856",
+        "Time": "14:45",
+        "Status": "At gate 14:39"
+      },
+      {
+        "Airline": "QATAR AIRWAYS",
+        "Origin": "Doha",
+        "Flight": "QR 818",
+        "Time": "14:45",
+        "Status": "At gate 14:55"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Manila",
+        "Flight": "CX 900",
+        "Time": "14:50",
+        "Status": "At gate 14:48"
+      },
+      {
+        "Airline": "FIJI AIRWAYS",
+        "Origin": "Nadi",
+        "Flight": "FJ 391",
+        "Time": "14:50",
+        "Status": "At gate 15:01"
+      },
+      {
+        "Airline": "Cathay Dragon",
+        "Origin": "Kaohsiung",
+        "Flight": "KA 441",
+        "Time": "14:55",
+        "Status": "At gate 14:54"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Tokyo/HND",
+        "Flight": "CX 543",
+        "Time": "15:00",
+        "Status": "At gate 15:07"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Hangzhou",
+        "Flight": "HX 115",
+        "Time": "15:05",
+        "Status": "At gate 15:03"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Fukuoka,Taipei",
+        "Flight": "CX 511",
+        "Time": "15:15",
+        "Status": "At gate 15:05"
+      },
+      {
+        "Airline": "Cathay Pacific",
+        "Origin": "Ho Chi Minh",
+        "Flight": "CX 766",
+        "Time": "15:15",
+        "Status": "At gate 14:53"
+      },
+      {
+        "Airline": "Hong Kong Airlines",
+        "Origin": "Haikou",
+        "Flight": "HX 108",
+        "Time": "15:15",
+        "Status": "At gate 15:04"
+      }
+    ]
+  }
+}
