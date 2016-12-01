@@ -1,6 +1,6 @@
-# dataportalAPIs
+# data portal APIs
 
-science park dataportal apis
+science park data portal apis
 
 How to run from terminal on macOS:
 1. Setup the proper python3.5.2 virtual environment (you may need to install multiple packages using pip)
