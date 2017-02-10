@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import re
@@ -28,10 +29,12 @@ for element1 in letters1:
         status_code = 1
         break
     try:
+        # print(temp)
         temp_val = int(temp)
         t["Temperature"] = temp
         status_code = 0
     except ValueError:
+        # print("here we are")
         status_code = 2  # temp is not an int number
         break
     result.append(t)
@@ -50,6 +53,15 @@ for element2 in letters2:
         status_code = 1
         break
     try:
+        try:
+            temp_val = int(temp)
+        except ValueError:
+            temp = temp[-2:-1]
+            print("here we go")
+            print(temp)
+            print(hour)
+            temp_val = int(temp)
+            print(temp_val)
         temp_val = int(temp)
         t["Temperature"] = temp
         status_code = 0
@@ -57,14 +69,9 @@ for element2 in letters2:
         status_code = 2  # temp is not an int number
         break
     result.append(t)
-# print(result[0])
-# print(result[0]['Time'])
-# print(result[0:1])
-# print(result[0:1])
 result[0]['Time'] = 'Now'
-# print(result[0]['Time'])
 X_result = result[0:9]
 if status_code == 0:
     print(json.dumps({"DataList": {'Root': X_result}}, sort_keys=False))
 else:
-    print()
+    print(status_code)
