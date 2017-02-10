@@ -57,11 +57,11 @@ for element2 in letters2:
             temp_val = int(temp)
         except ValueError:
             temp = temp[-2:-1]
-            print("here we go")
-            print(temp)
-            print(hour)
+            # print("here we go")
+            # print(temp)
+            # print(hour)
             temp_val = int(temp)
-            print(temp_val)
+            # print(temp_val)
         temp_val = int(temp)
         t["Temperature"] = temp
         status_code = 0
