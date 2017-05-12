@@ -55,7 +55,7 @@ for i in collection:
     flight = selection1
     des = single_list[2]
     airline = selection
-    print(single_list[7])
+    # print(single_list[7])
     if "Dep" in single_list[7]:
         status = single_list[7][0:9]
     elif "Gate" in single_list[7]:
