@@ -1,12 +1,12 @@
-# data portal APIs
+Data Portal APIs
+================
 
-science park data portal apis
+Scicence park data portal APIs
+------------------------------
 
-How to run from terminal on macOS:
-1. Setup the proper python3.5.2 virtual environment (you may need to install multiple packages using pip)
-2. cd into the venv folder where your virtual environment resides.
-3. just type: python name_of_the_crawler.py
+**How to use**
 
-Last updated by:
-Pharrell.zx
-1 Dec 2016
+1. python3.5.2 virtual environment.
+2. pip install -r requirements.txt
+3. cd into the venv folder
+4. python name_of_the_crawler.py
