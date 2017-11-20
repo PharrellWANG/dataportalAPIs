@@ -7,7 +7,6 @@ Data Portal APIs
 
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
-- [Deployment](#deployment)
 
 ### Installation
 Clone repo: 
