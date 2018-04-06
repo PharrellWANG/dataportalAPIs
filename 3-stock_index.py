@@ -15,6 +15,7 @@ context = ssl._create_unverified_context()
 page = urlopen(req, context=context).read()
 soup = BeautifulSoup(page, 'lxml')
 collection = soup.find_all("tr", id=lambda x: x and x.startswith('pair'))
+# print(collection)
 result = []
 status_code = 0
 time_format = re.compile('.{2}/.{2}')
@@ -40,25 +41,34 @@ for i in collection:
     changeratio = single_list[5]
     try:
         time = single_list[6]
-        if len(time) == 5 or 8:
+        if len(time) == 5 or len(time) == 8:
+            # print('----------------------------------------------------')
+            # print(time)
+            # print(len(time))
+            # print(time_format.match(time))
+            # print(time_format1.match(time))
             if time_format.match(time) or time_format1.match(time):
                 pass
             else:
                 status_code = 4
                 break
+        elif len(time) == 7:
+            continue
         else:
             status_code = 5
             break
     except IndexError:
         status_code = 6
     if len(time) == 5:
-        # print('length is five')
+        # print('length is five ----------------------5')
         # print(time)
         timereformatted = str(datetime.now())[0:8] + time[0:2] + " " + "17:00:00"
+        # print(timereformatted)
     elif len(time) == 8:
-        # print('length is eight')
+        # print('length is eight -------------------------------8')
         # print(time)
         timereformatted = str(datetime.now())[0:10] + " " + time
+        # print(timereformatted)
     else:
         pass
     status = single_list[7]
@@ -116,7 +126,8 @@ for i in collection:
             pass
     else:
         pass
+# print(status_code)
 if status_code == 0:
     print(json.dumps({"DataList": {'Root': result}}, sort_keys=False))
 else:
-    print()
+    print(status_code)
