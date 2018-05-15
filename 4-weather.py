@@ -1,15 +1,14 @@
 # -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup
-from urllib.request import Request, urlopen
 import re
+import requests
 import ssl
 import json
 
-req1 = Request('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=1', headers={'User-Agent': 'Mozilla/5.0'})
-context = ssl._create_unverified_context()
-page1 = urlopen(req1, context=context).read()
-req2 = Request('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=2', headers={'User-Agent': 'Mozilla/5.0'})
-page2 = urlopen(req2, context=context).read()
+req1 = requests.get('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=1', headers={'User-Agent': 'Mozilla/5.0'})
+page1 = req1.content
+req2 = requests.get('http://m.accuweather.com/en/hk/hong-kong/1123655/hourly-weather-forecast/1123655?day=2', headers={'User-Agent': 'Mozilla/5.0'})
+page2 = req2.content
 soup1 = BeautifulSoup(page1, 'lxml')
 soup2 = BeautifulSoup(page2, 'lxml')
 letters1 = soup1.find_all("div", class_="wx-cell")
