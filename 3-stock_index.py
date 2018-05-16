@@ -1,5 +1,5 @@
 import json
-from urllib.request import Request, urlopen
+import requests
 import re
 import ssl
 from bs4 import BeautifulSoup
@@ -8,11 +8,11 @@ import pytz
 import tzlocal
 
 local_timezone = tzlocal.get_localzone()
-req = Request('http://www.investing.com/indices/major-indices',
-              headers={'User-Agent': 'Mozilla/5.0'})
-# gcontext = ssl.SSLContext(ssl.PROTOCOL_TLSv1)  # Only for gangstars
-context = ssl._create_unverified_context()
-page = urlopen(req, context=context).read()
+req = requests.get(
+    'http://www.investing.com/indices/major-indices',
+    headers={'User-Agent': 'Mozilla/5.0'}
+)
+page = req.content
 soup = BeautifulSoup(page, 'lxml')
 collection = soup.find_all("tr", id=lambda x: x and x.startswith('pair'))
 # print(collection)
@@ -24,7 +24,7 @@ for i in collection:
     td_set = i.find_all('td')
     single_list = []
     for single in td_set:
-        if single.text != "\xa0":
+        if single.text != u'\xa0':
             single_list.append(single.text)
     length = len(single_list)
     if length != 7:
@@ -52,11 +52,14 @@ for i in collection:
             else:
                 status_code = 4
                 break
-        elif len(time) == 7:
-            continue
-        else:
-            status_code = 5
-            break
+        #
+        # Below Handling can be omitted
+        #
+        # elif len(time) == 7:
+        #     continue
+        # else:
+        #     status_code = 5
+        #     break
     except IndexError:
         status_code = 6
     if len(time) == 5:
@@ -81,38 +84,7 @@ for i in collection:
     # t["Time"] = timereformatted
     # print(timereformatted)
     if status_code == 0:
-        if index == "Nasdaq":
-            try:
-                utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
-                local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
-                local_time = str(local_time)[0:19]
-                # print(local_time)
-                t["Time"] = local_time
-                result.append(t)
-            except:
-                pass
-
-        elif index == "Hang Seng":
-            try:
-                utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
-                local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
-                local_time = str(local_time)[0:19]
-                t["Time"] = local_time
-                # print(local_time)
-                result.append(t)
-            except:
-                pass
-        elif index == "China A50":
-            try:
-                utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
-                local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
-                local_time = str(local_time)[0:19]
-                t["Time"] = local_time
-                # print(local_time)
-                result.append(t)
-            except:
-                pass
-        elif index == "Nikkei 225":
+        if index in ["Nasdaq", "Hang Seng", "China A50", "Nikkei 225"]:
             try:
                 utc_time = datetime.strptime(timereformatted, "%Y-%m-%d %H:%M:%S")
                 local_time = utc_time.replace(tzinfo=pytz.utc).astimezone(local_timezone)
